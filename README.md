@@ -11,8 +11,6 @@ $ virtualenv env
 $ source env/bin/activate
 ```
 
-<br />
-
 ### 👉 Virtual Environment Set Up for `Windows` 
 
 > Install modules via `VENV` (windows) 
