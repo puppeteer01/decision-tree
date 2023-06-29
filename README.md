@@ -1,7 +1,5 @@
 # Predicting Cancer Using Decision Tree
 
-Project coded in React and Django. 
-
 <br />
 
 ### 👉 Virtual Environment Set Up for `Unix`, `MacOS` 
