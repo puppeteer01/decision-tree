@@ -25,7 +25,7 @@ $ .\venv\Scripts\activate
 **Install dependencies** using pip
 
 ```bash
-$ pips install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 **Run the model** 
