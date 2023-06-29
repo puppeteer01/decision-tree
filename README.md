@@ -18,14 +18,14 @@ $ source env/bin/activate
 > Install modules via `VENV` (windows) 
 
 ```bash
-$ python3 -m venv venv
+$ py -m venv venv
 $ .\venv\Scripts\activate
 ```
 
 **Install dependencies** using pip
 
 ```bash
-$ pip3 install -r requirements.txt
+$ pips install -r requirements.txt
 ```
 
 **Run the model** 
